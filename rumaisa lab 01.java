@@ -32,10 +32,11 @@ class Lab2{
 		System.out.println(string);
 		
 		Person person=new Person();
-		person.set_lastname("Mallick");
-		string=person.get_lastname();
+		person.set_Middlename("Mallick");
+		string=person.get_Middlename();
 		System.out.println(string);
 	}
 }
+
 
 
